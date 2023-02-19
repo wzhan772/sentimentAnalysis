@@ -1,7 +1,5 @@
 '''
 the function of the main program is to format and print the output of the files given
-Created by: William Zhang, CS1026A
-SN: 251215208
 '''
 from sentiment_analysis import compute_tweets
 
