@@ -2,8 +2,6 @@
 the function of this program is to separate each list of tweets into their regions and bodies
 the function then takes each region and body and calculates the sentiment score of each tweet, and
 finally adds up all of the scores and finds the average happiness score for each region
-Created by: William Zhang, CS1026A
-SN: 251215208
 '''
 import string
 #given coordinate values for latitude and longitude
